@@ -60,7 +60,7 @@ Identifying customers at risk of churning is a high-stakes classification proble
 
 1️⃣ **Clone the Repository**
 <pre>
-git clone https://github.com/real-ahmed-moussa/opttree.git
+git clone https://github.com/real-ahmed-moussa/optitree.git
 cd optitree
 </pre>
 
